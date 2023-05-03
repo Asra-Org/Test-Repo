@@ -1,0 +1,5 @@
+* @global-AsraShariff
+#to add reviwers to the pull request automatically
+* .js @js-AsraShariff
+#owner owns only specific file and recieves request when changes are made to this file
+* .txt @Asra-Org/New Team
